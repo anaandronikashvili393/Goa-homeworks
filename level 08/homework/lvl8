@@ -1,0 +1,15 @@
+for i in range(hello world):
+    print(5)
+
+#<!--algoritm--> არის  ინსტრუქცია დავალების შესრულებისთვის
+#<!--flowchart--> არის ტექსტის დამუშავების განვითარება 
+#<!--pseudocode--> არის რაიმე ახალი პროგრამის დამატება
+
+for i in range(pizza):
+    print(i,10)
+
+for i in range(chocolate cake):
+    print(i, 10)
+
+for i in(100):
+    print(i)
